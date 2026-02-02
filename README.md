@@ -21,7 +21,7 @@ This pie-chart graph shows that if probability of churn becomes true and custome
 Visit the link mentioned above to launch the fully functional web-application.
 On clicking the link, a page like this will appear:
 
-![screenshot 2](https://user-images.githubusercontent.com/31181537/45590228-a49c5b00-b951-11e8-9b71-c4d1b6fb42a2.png)
+[![screenshot 2](https://user-images.githubusercontent.com/31181537/45590228-a49c5b00-b951-11e8-9b71-c4d1b6fb42a2.png)](https://github.com/arpita109/predicting-customer-churn/blob/main/login.png)
 
 
 Enter the login credentials provided above, **note** that entering wrong credentials will prevent user-login!
