@@ -46,7 +46,7 @@ Now, on clicking **Predict** , a dropdown menu consisting of all employee-ids is
 
 Select any customer from drop-down menu and click **Predict** -
 
-![untitled](https://user-images.githubusercontent.com/31181537/45590294-188b3300-b953-11e8-9622-aaf0ef696612.png)
+![customer_info](https://github.com/arpita109/predicting-customer-churn/blob/main/info.png)
 
 
 A data-visualised meter showing churn-risk (low-medium-high) , along with top reasons for leaving and details of customers is shown.
